@@ -17,3 +17,9 @@ Installation (Linux VPS):
 3. Move the files to your webserver directory (/var/www/html/) 
 3. Import database structures (faucet.sql)
 4. Open the config.php and edit all the settings within to suit your needs
+
+Optional:
+
+5.1 Create Cronjobs for timed Payout
+5.2 Cronjob for Tor IP Blocking
+
